@@ -25,13 +25,11 @@ App plugins extend the entire Thymer application with global features.
 - [Quick Capture](https://github.com/gitdaveuk/thymer-quick-capture-plugin) - Quickly capture notes from anywhere
 - [SyncHub](https://github.com/riclib/thymer-synchub) - Sync architecture for external data sources
 - [Thymer Importer](https://github.com/phildrysdale1/thymer-importer) - Import notes from other note apps
-- [Save to Thymer](https://github.com/zakblf/save-to-thymer) - About
-Save web pages to Thymer collections with custom templates and property mapping
+- [Save to Thymer](https://github.com/zakblf/save-to-thymer) - Save web pages to Thymer collections with custom templates and property mapping
 - [Google Drive Previewer](https://github.com/Bambouri/Thymer-Google-Drive-Previewer) - Allows you to preview google drive links inside of Thymer
 - [Thymer Charts](https://github.com/Braffolk/thymer-charts) - Thymer plugin for creating and using charts
-- [Word Count](https://github.com/gitdaveuk/Thymer-Word-Count-Plugin) - A word count for Thymer
-- [Pomodoro Timer](https://github.com/gitdaveuk/thymer-pomodoro-timer) - A pomodoro counter for Thymer
-
+- [Word Count Plugin](https://github.com/gitdaveuk/Thymer-Word-Count-Plugin) - Displays a word count for current page
+- [Theme Architect](https://github.com/asbedb/theme-thyme) - Preview real-time edits to CSS in Thymer
 
 #### Dev Examples
 - [Broadcast Demo](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/broadcast) - Real-time messaging between users
@@ -69,12 +67,11 @@ Collection plugins extend specific note collections with custom views, formulas,
 
 Custom CSS themes and visual customizations.
 
-
-- [Thymer Catppuccin Mocha](https://github.com/niklashog/Thymer-Catppuccin-Mocha)
-- [Thymer Solarized](https://github.com/phildrysdale1/Thymer-Solarized-Theme/)
-- [Thymer-Chocolatey-Brown](https://github.com/gitdaveuk/Thymer-Chocolatey-Brown-Theme/tree/main)
-- [Thymer Logseq](https://github.com/gitdaveuk/Logseq-theme-for-Thymer)
-
+- [Thymer Catppuccin Mocha](https://github.com/niklashog/Thymer-Catppuccin-Mocha) - Dark Only
+- [Thymer-Chocolatey-Brown](https://github.com/gitdaveuk/Thymer-Chocolatey-Brown-Theme/tree/main) - Light & Dark
+- [Thymer Logseq (Solarized)](https://github.com/gitdaveuk/Logseq-theme-for-Thymer) - Light & Dark
+- [Kanagawa Theme](https://gist.github.com/hildxd/55c6370e287e8f4d89adb6e388e3183b) - Light & Dark
+- [Thymer Catppuccin Latte-Frappe-Macchiato](https://github.com/phildrysdale1/Thymer-Catppuccin-Latte-Frappe-Macchiato) Light & Dark
 
 ---
 
