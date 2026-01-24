@@ -29,6 +29,8 @@ App plugins extend the entire Thymer application with global features.
 Save web pages to Thymer collections with custom templates and property mapping
 - [Google Drive Previewer](https://github.com/Bambouri/Thymer-Google-Drive-Previewer) - Allows you to preview google drive links inside of Thymer
 - [Thymer Charts](https://github.com/Braffolk/thymer-charts) - Thymer plugin for creating and using charts
+- [Word Count](https://github.com/gitdaveuk/Thymer-Word-Count-Plugin) - A word count for Thymer
+- [Pomodoro Timer](https://github.com/gitdaveuk/thymer-pomodoro-timer) - A pomodoro counter for Thymer
 
 
 #### Dev Examples
