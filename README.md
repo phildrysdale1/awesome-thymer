@@ -31,6 +31,7 @@ App plugins extend the entire Thymer application with global features.
 - [Word Count](https://github.com/gitdaveuk/Thymer-Word-Count-Plugin) - Displays a word count for current page
 - [Pomodoro Timer](https://github.com/gitdaveuk/thymer-pomodoro-timer) - A pomodoro counter for Thymer
 - [Theme Architect](https://github.com/asbedb/theme-thyme) - Preview real-time edits to CSS in Thymer
+- [Thymer Tables](https://github.com/phildrysdale1/thymer-tables) - Renders editable tables in HTML
 
 #### Dev Examples
 - [Broadcast Demo](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/broadcast) - Real-time messaging between users
