@@ -4,6 +4,8 @@
 
 [Thymer](https://thymer.com) is a note-taking and productivity app. This list collects community-created extensions and resources.
 
+Install and use plugins at your own risk. It may also be wise to play around with some of these in a test/play workspace before bringing them into your main one.
+
 ## Contents
 
 - [Plugins](#plugins)
