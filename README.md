@@ -34,7 +34,8 @@ App plugins extend the entire Thymer application with global features.
 - [Pomodoro Timer](https://github.com/gitdaveuk/thymer-pomodoro-timer) - A pomodoro counter for Thymer
 - [Theme Architect](https://github.com/asbedb/theme-thyme) - Preview real-time edits to CSS in Thymer
 - [Thymer Tables](https://github.com/phildrysdale1/thymer-tables) - Renders editable tables in HTML
-- [Thymer Recent Files Plugin](https://github.com/phildrysdale1/thymer-recent-files/) - A Thymer plugin that adds quick access to your most recently modified files via a pop-up modal.
+- [Thymer Recent Files](https://github.com/phildrysdale1/thymer-recent-files/) - A Thymer plugin that adds quick access to your most recently modified files via a pop-up modal
+- [Thymer On This Day](https://github.com/ed-nico/thymer-on-this-day) - A Thymer plugin plugin that shows your journal entries from this day in previous years
 
 #### Dev Examples
 - [Broadcast Demo](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/broadcast) - Real-time messaging between users
@@ -43,7 +44,7 @@ App plugins extend the entire Thymer application with global features.
 - [Navigate to Journal](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/navigate-to-journal) - Status bar button to open journal
 - [Robot Cursor](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/robot-cursor) - Fun cursor customization demo
 - [Weather Plugin](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/weather) - Weather display in status bar
-
+- [Move Completed Tasks](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/move-completed-tasks) - Adds a command to move completed tasks to the bottom of their sibling lists
 ---
 
 ### Collection Plugins
