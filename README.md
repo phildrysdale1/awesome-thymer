@@ -73,19 +73,22 @@ Collection plugins extend specific note collections with custom views, formulas,
 
 Custom CSS themes and visual customizations.
 
-- [Thymer Catppuccin Mocha](https://github.com/niklashog/Thymer-Catppuccin-Mocha) - Dark Only
-- [Thymer-Chocolatey-Brown](https://github.com/gitdaveuk/Thymer-Chocolatey-Brown-Theme/tree/main) - Light & Dark
-- [Thymer Logseq](https://github.com/gitdaveuk/Logseq-theme-for-Thymer) - Light & Dark
-- [Kanagawa Theme](https://gist.github.com/hildxd/55c6370e287e8f4d89adb6e388e3183b) - Light & Dark
+- [Ayu](https://github.com/phildrysdale1/thymer-ayu-theme) - Light & Dark
 - [Catppuccin Latte-Frappe-Macchiato](https://github.com/phildrysdale1/Thymer-Catppuccin-Latte-Frappe-Macchiato) Light & Dark
-- [Nord Theme](https://github.com/phildrysdale1/thymer-nord-theme) - Light & Dark
-- [Dracula Theme](https://github.com/phildrysdale1/thymer-dracula-theme) - Light & Dark
-- [One Dark Theme](https://github.com/phildrysdale1/thymer-one-dark-theme) - Dark Only
-- [Ayu Theme](https://github.com/phildrysdale1/thymer-ayu-theme) - Light & Dark
-- [Github Theme](https://github.com/phildrysdale1/thymer-github-themes) - Light & Dark
-- [Monokai Theme](https://github.com/phildrysdale1/thymer-monokai-theme) - Light & Dark
-- [Night Owl Theme](https://github.com/phildrysdale1/thymer-night-owl-theme) - Light & Dark
-- [Solarized Theme](https://github.com/phildrysdale1/Thymer-Solarized-Theme) - Light & Dark
+- [Catppuccin Mocha](https://github.com/niklashog/Thymer-Catppuccin-Mocha) - Dark Only
+- [Chocolatey-Brown](https://github.com/gitdaveuk/Thymer-Chocolatey-Brown-Theme/tree/main) - Light & Dark
+- [Dracula](https://github.com/phildrysdale1/thymer-dracula-theme) - Light & Dark
+- [Everforest](https://github.com/phildrysdale1/thymer-everforest-theme) - Ligth & Dark
+- [Github](https://github.com/phildrysdale1/thymer-github-themes) - Light & Dark
+- [Kanagawa](https://gist.github.com/hildxd/55c6370e287e8f4d89adb6e388e3183b) - Light & Dark
+- [Monokai](https://github.com/phildrysdale1/thymer-monokai-theme) - Light & Dark
+- [Night Owl](https://github.com/phildrysdale1/thymer-night-owl-theme) - Light & Dark
+- [Nord](https://github.com/phildrysdale1/thymer-nord-theme) - Light & Dark
+- [One Dark](https://github.com/phildrysdale1/thymer-one-dark-theme) - Dark Only
+- [Solarized](https://github.com/phildrysdale1/Thymer-Solarized-Theme) - Light & Dark
+- [Thymer Logseq](https://github.com/gitdaveuk/Logseq-theme-for-Thymer) - Light & Dark
+- [Tokyo Night](https://github.com/phildrysdale1/thymer-tokyo-night-theme) - Light & Dark
+  
 ---
 
 ## Contributing
