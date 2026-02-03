@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(for dir in /Users/eds/Documents/Thymer/plugins/*/)",
+      "Bash(git -C \"$dir\" pull)",
+      "Bash(done)",
+      "Bash(git clone:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:smartconnections.app)",
+      "WebFetch(domain:docs.smartconnections.app)",
+      "Bash(gh auth status:*)",
+      "Bash(brew list:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git branch:*)"
+    ]
+  }
+}

@@ -34,8 +34,9 @@ App plugins extend the entire Thymer application with global features.
 - [Pomodoro Timer](https://github.com/gitdaveuk/thymer-pomodoro-timer) - A pomodoro counter for Thymer
 - [Theme Architect](https://github.com/asbedb/theme-thyme) - Preview real-time edits to CSS in Thymer
 - [Thymer Tables](https://github.com/phildrysdale1/thymer-tables) - Renders editable tables in HTML
-- [Thymer Recent Files](https://github.com/phildrysdale1/thymer-recent-files/) - A Thymer plugin that adds quick access to your most recently modified files via a pop-up modal
-- [Thymer On This Day](https://github.com/ed-nico/thymer-on-this-day) - A Thymer plugin plugin that shows your journal entries from this day in previous years
+- [Recent Files](https://github.com/phildrysdale1/thymer-recent-files/) - Adds quick access to your most recently modified files via a pop-up modal
+- [On This Day](https://github.com/ed-nico/thymer-on-this-day) - Shows your journal entries from this day in previous years
+- [Related Notes](https://github.com/ed-nico/thymer-related-notes) - Discovers related notes based on content similarity, shared references, and tags
 
 #### Dev Examples
 - [Broadcast Demo](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/broadcast) - Real-time messaging between users
