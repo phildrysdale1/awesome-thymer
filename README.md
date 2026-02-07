@@ -37,6 +37,7 @@ App plugins extend the entire Thymer application with global features.
 - [Recent Files](https://github.com/phildrysdale1/thymer-recent-files/) - Adds quick access to your most recently modified files via a pop-up modal
 - [On This Day](https://github.com/ed-nico/thymer-on-this-day) - Shows your journal entries from this day in previous years
 - [Related Notes](https://github.com/ed-nico/thymer-related-notes) - Discovers related notes based on content similarity, shared references, and tags
+- [Grpah View](https://github.com/ed-nico/thymer-graph-view) Renders an interactive force-directed graph of all your notes, references, and tags
 
 #### Dev Examples
 - [Broadcast Demo](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/broadcast) - Real-time messaging between users
