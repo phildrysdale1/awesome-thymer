@@ -22,31 +22,33 @@ Install and use plugins at your own risk. It may also be wise to play around wit
 
 App plugins extend the entire Thymer application with global features.
 
+- [Flashcards](https://github.com/talal/thymer-flashcards) - Create and review flashcards using spaced repetition ([FSRS](https://github.com/open-spaced-repetition/ts-fsrs))
+- [Google Drive Previewer](https://github.com/Bambouri/Thymer-Google-Drive-Previewer) - Allows you to preview Google Drive links inside of Thymer
+- [Graph View](https://github.com/ed-nico/thymer-graph-view) - Renders an interactive force-directed graph of all your notes, references, and tags
 - [Indent Rainbow](https://github.com/ahpatel/thymer-indent-rainbow) - Enhanced hierarchy visualization with rainbow-colored indent guides
-- [PDF Export](https://github.com/gitdaveuk/thymer-pdf-export-plugin) - Export notes to PDF
-- [Quick Capture](https://github.com/gitdaveuk/thymer-quick-capture-plugin) - Quickly capture notes from anywhere
-- [SyncHub](https://github.com/riclib/thymer-synchub) - Sync architecture for external data sources
-- [Thymer Importer](https://github.com/phildrysdale1/thymer-importer) - Import notes from other note apps
-- [Save to Thymer](https://github.com/zakblf/save-to-thymer) - Save web pages to Thymer collections with custom templates and property mapping
-- [Google Drive Previewer](https://github.com/Bambouri/Thymer-Google-Drive-Previewer) - Allows you to preview google drive links inside of Thymer
-- [Thymer Charts](https://github.com/Braffolk/thymer-charts) - Thymer plugin for creating and using charts
-- [Word Count](https://github.com/gitdaveuk/Thymer-Word-Count-Plugin) - Displays a word count for current page
-- [Pomodoro Timer](https://github.com/gitdaveuk/thymer-pomodoro-timer) - A pomodoro counter for Thymer
-- [Theme Architect](https://github.com/asbedb/theme-thyme) - Preview real-time edits to CSS in Thymer
-- [Thymer Tables](https://github.com/phildrysdale1/thymer-tables) - Renders editable tables in HTML
-- [Recent Files](https://github.com/phildrysdale1/thymer-recent-files/) - Adds quick access to your most recently modified files via a pop-up modal
 - [On This Day](https://github.com/ed-nico/thymer-on-this-day) - Shows your journal entries from this day in previous years
+- [PDF Export](https://github.com/gitdaveuk/thymer-pdf-export-plugin) - Export notes to PDF
+- [Pomodoro Timer](https://github.com/gitdaveuk/thymer-pomodoro-timer) - A pomodoro counter for Thymer
+- [Quick Capture](https://github.com/gitdaveuk/thymer-quick-capture-plugin) - Quickly capture notes from anywhere
+- [Recent Files](https://github.com/phildrysdale1/thymer-recent-files/) - Adds quick access to your most recently modified files via a pop-up modal
 - [Related Notes](https://github.com/ed-nico/thymer-related-notes) - Discovers related notes based on content similarity, shared references, and tags
-- [Grpah View](https://github.com/ed-nico/thymer-graph-view) Renders an interactive force-directed graph of all your notes, references, and tags
+- [Save to Thymer](https://github.com/zakblf/save-to-thymer) - Save web pages to Thymer collections with custom templates and property mapping
+- [SyncHub](https://github.com/riclib/thymer-synchub) - Sync architecture for external data sources
+- [Theme Architect](https://github.com/asbedb/theme-thyme) - Preview real-time edits to CSS in Thymer
+- [Thymer Charts](https://github.com/Braffolk/thymer-charts) - Thymer plugin for creating and using charts
+- [Thymer Importer](https://github.com/phildrysdale1/thymer-importer) - Import notes from other note apps
+- [Thymer Tables](https://github.com/phildrysdale1/thymer-tables) - Renders editable tables in HTML
+- [Word Count](https://github.com/gitdaveuk/Thymer-Word-Count-Plugin) - Displays a word count for the current page
 
 #### Dev Examples
 - [Broadcast Demo](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/broadcast) - Real-time messaging between users
 - [Clock Plugin](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/clock) - Status bar clock demo
 - [CSS Plugin](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/css) - Custom CSS injection demo
+- [Move Completed Tasks](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/move-completed-tasks) - Adds a command to move completed tasks to the bottom of their sibling lists
 - [Navigate to Journal](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/navigate-to-journal) - Status bar button to open journal
 - [Robot Cursor](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/robot-cursor) - Fun cursor customization demo
 - [Weather Plugin](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/weather) - Weather display in status bar
-- [Move Completed Tasks](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/move-completed-tasks) - Adds a command to move completed tasks to the bottom of their sibling lists
+
 ---
 
 ### Collection Plugins
@@ -76,12 +78,12 @@ Collection plugins extend specific note collections with custom views, formulas,
 Custom CSS themes and visual customizations.
 
 - [Ayu](https://github.com/phildrysdale1/thymer-ayu-theme) - Light & Dark
-- [Catppuccin Latte-Frappe-Macchiato](https://github.com/phildrysdale1/Thymer-Catppuccin-Latte-Frappe-Macchiato) Light & Dark
+- [Catppuccin Latte-Frappe-Macchiato](https://github.com/phildrysdale1/Thymer-Catppuccin-Latte-Frappe-Macchiato) - Light & Dark
 - [Catppuccin Mocha](https://github.com/niklashog/Thymer-Catppuccin-Mocha) - Dark Only
 - [Chocolatey-Brown](https://github.com/gitdaveuk/Thymer-Chocolatey-Brown-Theme/tree/main) - Light & Dark
 - [Dracula](https://github.com/phildrysdale1/thymer-dracula-theme) - Light & Dark
-- [Everforest](https://github.com/phildrysdale1/thymer-everforest-theme) - Ligth & Dark
-- [Github](https://github.com/phildrysdale1/thymer-github-themes) - Light & Dark
+- [Everforest](https://github.com/phildrysdale1/thymer-everforest-theme) - Light & Dark
+- [GitHub](https://github.com/phildrysdale1/thymer-github-themes) - Light & Dark
 - [Kanagawa](https://gist.github.com/hildxd/55c6370e287e8f4d89adb6e388e3183b) - Light & Dark
 - [Monokai](https://github.com/phildrysdale1/thymer-monokai-theme) - Light & Dark
 - [Night Owl](https://github.com/phildrysdale1/thymer-night-owl-theme) - Light & Dark
@@ -90,7 +92,7 @@ Custom CSS themes and visual customizations.
 - [Solarized](https://github.com/phildrysdale1/Thymer-Solarized-Theme) - Light & Dark
 - [Thymer Logseq](https://github.com/gitdaveuk/Logseq-theme-for-Thymer) - Light & Dark
 - [Tokyo Night](https://github.com/phildrysdale1/thymer-tokyo-night-theme) - Light & Dark
-  
+
 ---
 
 ## Contributing
@@ -109,5 +111,3 @@ Use this format when adding items:
 ```markdown
 - [Resource Name](url) - Brief description of what it does
 ```
-
----
