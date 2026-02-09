@@ -22,6 +22,7 @@ Install and use plugins at your own risk. It may also be wise to play around wit
 
 App plugins extend the entire Thymer application with global features.
 
+- [Flashcards](https://github.com/talal/thymer-flashcards) - Create and review flashcards using spaced repetition ([FSRS](https://github.com/open-spaced-repetition/ts-fsrs))
 - [Google Drive Previewer](https://github.com/Bambouri/Thymer-Google-Drive-Previewer) - Allows you to preview Google Drive links inside of Thymer
 - [Graph View](https://github.com/ed-nico/thymer-graph-view) - Renders an interactive force-directed graph of all your notes, references, and tags
 - [Indent Rainbow](https://github.com/ahpatel/thymer-indent-rainbow) - Enhanced hierarchy visualization with rainbow-colored indent guides
