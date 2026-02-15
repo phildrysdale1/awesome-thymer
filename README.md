@@ -25,7 +25,7 @@ App plugins extend the entire Thymer application with global features.
 - [Flashcards](https://github.com/talal/thymer-flashcards) - Create and review flashcards using spaced repetition ([FSRS](https://github.com/open-spaced-repetition/ts-fsrs))
 - [Google Drive Previewer](https://github.com/Bambouri/Thymer-Google-Drive-Previewer) - Allows you to preview Google Drive links inside of Thymer
 - [Graph View](https://github.com/ed-nico/thymer-graph-view) - Renders an interactive force-directed graph of all your notes, references, and tags
-- [Indent Rainbow](https://github.com/ahpatel/thymer-indent-rainbow) - Enhanced hierarchy visualization with rainbow-colored indent guides
+- [Indent Rainbow](https://github.com/ahpatel/thymer-indent-rainbow) - Enhanced hierarchy visualisation with rainbow-colored indent guides
 - [On This Day](https://github.com/ed-nico/thymer-on-this-day) - Shows your journal entries from this day in previous years
 - [PDF Export](https://github.com/gitdaveuk/thymer-pdf-export-plugin) - Export notes to PDF
 - [Pomodoro Timer](https://github.com/gitdaveuk/thymer-pomodoro-timer) - A pomodoro counter for Thymer
@@ -39,6 +39,8 @@ App plugins extend the entire Thymer application with global features.
 - [Thymer Importer](https://github.com/phildrysdale1/thymer-importer) - Import notes from other note apps
 - [Thymer Tables](https://github.com/phildrysdale1/thymer-tables) - Renders editable tables in HTML
 - [Word Count](https://github.com/gitdaveuk/Thymer-Word-Count-Plugin) - Displays a word count for the current page
+- [Bulk Move Notes](https://github.com/RobbK17/thymer-bulkmove) - Bulk move notes from one collection to another
+- [Workspace Statistics](https://github.com/RobbK17/thymer-statistics) - Comprehensive statistics and analytics for your Thymer workspace
 
 #### Dev Examples
 - [Broadcast Demo](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/broadcast) - Real-time messaging between users
