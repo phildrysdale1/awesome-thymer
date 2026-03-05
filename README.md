@@ -84,6 +84,7 @@ Custom CSS themes and visual customizations.
 - [Catppuccin Latte-Frappe-Macchiato](https://github.com/phildrysdale1/Thymer-Catppuccin-Latte-Frappe-Macchiato) - Light & Dark
 - [Catppuccin Mocha](https://github.com/niklashog/Thymer-Catppuccin-Mocha) - Dark Only
 - [Chocolatey-Brown](https://github.com/gitdaveuk/Thymer-Chocolatey-Brown-Theme/tree/main) - Light & Dark
+- [Daylight Soot](https://github.com/niklashog/Thymer-Daylight-Soot) - Light Only
 - [Dracula](https://github.com/phildrysdale1/thymer-dracula-theme) - Light & Dark
 - [Everforest](https://github.com/phildrysdale1/thymer-everforest-theme) - Light & Dark
 - [GitHub](https://github.com/phildrysdale1/thymer-github-themes) - Light & Dark
