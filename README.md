@@ -42,8 +42,8 @@ App plugins extend the entire Thymer application with global features.
 - [Bulk Move Notes](https://github.com/RobbK17/thymer-bulkmove) - Bulk move notes from one collection to another
 - [Workspace Statistics](https://github.com/RobbK17/thymer-statistics) - Comprehensive statistics and analytics for your Thymer workspace
 - [Backreferences](https://github.com/harpreetchima/thymer-backreferences) - Thymer backreferences footer plugin
-- [Enhanced Search[(https://github.com/RobbK17/thymer-enhanced-search) - Cross-collection record viewer with Search, Duplicates, and Compare modes
-- [Cadence](https://github.com/harpreetchima/thymer-cadence) - Turns a standard Daily Notes journal into a cadence system with optional weekly, monthly, quarterly, and yearly notes
+- [Enhanced Search](https://github.com/RobbK17/thymer-enhanced-search) - Cross-collection record viewer with Search, Duplicates, and Compare modes
+- [Cadence](https://github.com/harpreetchima/thymer-cadence) - Daily Note into a cadence system with optional weekly, monthly, quarterly, and yearly notes
 
 
 #### Dev Examples
@@ -63,8 +63,7 @@ Collection plugins extend specific note collections with custom views, formulas,
 
 - [Media Tracker](https://github.com/afroviking/thymer-media-plugin) - Track books, movies, and TV shows you've read or watched
 - [Weekly Journal](https://github.com/ed-nico/thymer-weekly-journal) - View this week's journal pages side by side
-- [Supertypes](https://github.com/RobbK17/thymer-supertypes) - adds typed records with coloured badges, per-type field visibility, automatic status and priority defaults, field icons, and a full Settings UI
-
+- [Supertypes](https://github.com/RobbK17/thymer-supertypes) - adds typed records with coloured badges, per-type field visibility etc.
 #### Dev Examples
 - [Custom Property Render](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/collection-plugins/custom-prop-render) - Custom rendering and sorting for table properties
 - [Filter Dropdown Choices](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/collection-plugins/filter-dropdown-choices) - Dynamic dropdown filtering based on other fields
